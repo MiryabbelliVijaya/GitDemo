@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Orange HRM Regression Test Suite">
+	<test name="Test HRM Apps">
+		<classes>
+			<class name="com.orghrm.testCases.LoginTest" />
+			<class name="com.orghrm.testCases.HomeTest" />
+			<class name="com.orghrm.testCases.Admin.Organization.OrganizationTest" />
+			<class name="com.orghrm.testCases.Admin.Organization.GeneralInfoTest" />
+		</classes>
+	</test> <!-- Default test -->
+</suite> <!-- Default suite -->
