@@ -6,7 +6,7 @@ public class Vijaya {
 		// TODO Auto-generated method stub
 System.out.println("This is Vijaya");
 System.out.println("This is Vijaya and updated this time");		
-System.out.println("This is Vijaya and updated this time1234");	
+System.out.println("This is extra print in master");
 	}
 
 }
